@@ -1,2 +1,4 @@
 # StateMachineDemo
 Android状态机demo代码
+
+这个项目是Android WifiStateMachine简化后状态机，核心是状态机的设计思想，由于源码逻辑复杂不太好理解，所以通过这种简单的代码可以对状态机设计思想有一个初步的了解
